@@ -31,6 +31,81 @@
 <!--START_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 206 Contributions in the Year 2020
+ > 
+> 📦 9.9 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories
+ > 
+> 🔑 4 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    39 commits     █████░░░░░░░░░░░░░░░░░░░░   19.9% 
+🌆 Daytime    132 commits    ████████████████░░░░░░░░░   67.35% 
+🌃 Evening    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Tuesday      39 commits     █████░░░░░░░░░░░░░░░░░░░░   19.9% 
+Wednesday    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+Thursday     58 commits     ███████░░░░░░░░░░░░░░░░░░   29.59% 
+Friday       47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.98% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C                        1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/McDottie/McDottie/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <br /> 
