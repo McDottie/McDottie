@@ -31,7 +31,7 @@
 <!--START_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95920%20lines%20of%20code-blue)
 
@@ -39,7 +39,7 @@
 
 > 🏆 206 Contributions in the Year 2020
  > 
-> 📦 9.9 kB Used in Github's Storage 
+> 📦 10.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
