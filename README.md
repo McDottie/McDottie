@@ -1,7 +1,7 @@
-# Hi there i'm [José](https://www.linkedin.com/in/joseefcs/) - aka McDottie
+# Hi there i'm [José](https://www.linkedin.com/in/joseefcs/) - aka McDottie 👋
 <br />
 
-## Languages and Tools:
+## 🛠️ Languages and Tools :
 
 <img align="left" alt="C" width="26px" height="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
@@ -14,6 +14,7 @@
 <img align="left" alt="SQL" width="26px" height="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 <img align="left" alt="PostgreSQL" width="26px" height="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="Heroku" width="26px" height="26px" src="https://simpleicons.org/icons/heroku.svg" />
+<img align="left" alt="Vercel" width="26px" height="26px" src="https://simpleicons.org/icons/vercel.svg" />
 <img align="left" alt="Git" width="26px" height="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="MarkDown" width="26px" height="26px" src="https://simpleicons.org/icons/markdown.svg" />
@@ -23,10 +24,14 @@
 
 ---
 
-### :zap: Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
+<br /> 
+
+## 🎧 Spotify Playing
+[![Spotify](https://novatorem-k48bmv7u2.vercel.app/api/spotify)](https://open.spotify.com/user/jose.santos2106?si=o-hPUxwdQoixtmjuqi917A)
 <br /> 
 
 <details>
@@ -45,11 +50,12 @@
   <summary>😃 More about me</summary>
 
 - 🔭 I’m currently working on AppInvest (PR)
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: joseefcsantos@gmail.com
 - ⚡ Fun fact: I like snakes
 </details>
 
 <details>
   <summary>⚡ Github Stats</summary>
-  <img align="left" alt="McDottie's Github Stats" src="https://github-readme-stats-phi-ten.vercel.app/api?username=McDottie&show_icons=true&hide_border=true&count_private=true&theme=prussian&include_all_commits=true" />
+  <img align="left" alt="McDottie's Github Stats" src="https://github-readme-stats-phi-ten.vercel.app/api?username=McDottie&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </details>
