@@ -57,5 +57,5 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-  <img align="left" alt="McDottie's Github Stats" src="https://github-readme-stats-phi-ten.vercel.app/api?username=McDottie&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    <img align="" height='137px' alt="McDottie's Github Stats" src="https://github-readme-stats-phi-ten.vercel.app/api?username=McDottie&theme=dark&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" /><img align="" height='137px' src="https://github-readme-stats-phi-ten.vercel.app/api/top-langs/?username=McDottie&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&layout=compact" />
 </details>
