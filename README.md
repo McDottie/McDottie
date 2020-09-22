@@ -1,4 +1,4 @@
-<div class="bg-gray-dark">
+<div class="bg-gray">
 
 # Hi there i'm [José](https://www.linkedin.com/in/joseefcs/) - aka McDottie 👋
 <br />
