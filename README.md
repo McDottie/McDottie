@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm [José](https://www.linkedin.com/in/joseefcs/) - aka McDottie👋
 
 <br />
 
@@ -22,17 +22,22 @@
 <img align="left" alt="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />  
 
-<!--
-**McDottie/McDottie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<details>
+  <summary>:zap: Github Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-phi-ten.vercel.app
+/api?username=McDottie&show_icons=true&hide_border=true&count_private=true&theme=prussian&include_all_commits=true" />
+
+</details>
+
+---
+<details>
+  <summary>More about me</summary>
+
+- 🔭 I’m currently working on AppInvest (PR)
+- 📫 How to reach me: joseefcsantos@gmail.com
+- ⚡ Fun fact: I like snakes
+
+</details>
