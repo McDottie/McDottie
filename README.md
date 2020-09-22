@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Assembly " width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Motorola_6800_Assembly_Language.png" />
+<img align="left" alt="Assembly " width="26px" height="26px" src="https://lh3.googleusercontent.com/proxy/sNzF13512Fva6HI_HbyaUrLHU9FTalLN9RJYJBNLuZRLxyygmSFFxsDEfgVsZer3S0VOjgKxKKNDoBW8BMXTeCgWjEIT668z-otIQqEnkmENt_AVe227w6Nq2fUXPSQkzH2O-0yjmI0CA8x-7K80Yw" />
 <img align="left" alt="C" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
