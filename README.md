@@ -9,6 +9,7 @@
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
 <img align="left" alt="Java" width="26px" height="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Dart" width="26px" height="26px" src="https://simpleicons.org/icons/dart.svg" />
+<img align="left" alt="dotNet" width="26px" height="26px" src="https://simpleicons.org/icons/dot-net.svg" />
 <img align="left" alt="Flutter" width="26px" height="26px" src="https://simpleicons.org/icons/flutter.svg" />
 <img align="left" alt="Android Studio" width="26px" height="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
