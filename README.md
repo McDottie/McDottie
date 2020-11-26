@@ -16,7 +16,6 @@
 <img align="left" alt="Android Studio" width="26px" height="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Eclipse" width="26px" height="26px" src="https://simpleicons.org/icons/eclipseide.svg" />
-<img align="left" alt="SQL" width="26px" height="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 <img align="left" alt="PostgreSQL" width="26px" height="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="SQLServer" width="26px" height="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 <img align="left" alt="Heroku" width="26px" height="26px" src="https://simpleicons.org/icons/heroku.svg" />
