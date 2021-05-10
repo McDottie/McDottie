@@ -24,6 +24,7 @@
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="MarkDown" width="26px" height="26px" src="https://simpleicons.org/icons/markdown.svg" />
 <img align="left" alt="Terminal" width="26px" height="26px" src="https://simpleicons.org/icons/powershell.svg" />
+<img align="left" alt="ElasticSearch" width="26px" height="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
 
 <br />  
 
