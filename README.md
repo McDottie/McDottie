@@ -128,13 +128,12 @@ Python                   1 repo              ██░░░░░░░░░�
 
 <br /> 
 <img src="https://img.shields.io/badge/windows-hp%20pavillon%2015-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
-
 </details>
 
 <details>
   <summary>😃 More about me</summary>
 
-- 🔭 I’m currently working on AppInvest (PR)
+- 🔭 I’m currently working on **
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: joseefcsantos@gmail.com
 - ⚡ Fun fact: I like snakes
