@@ -133,8 +133,8 @@ Python                   1 repo              ██░░░░░░░░░�
 <details>
   <summary>😃 More about me</summary>
 
-- 🔭 I’m currently working on **
-- 🌱 I’m currently learning Computer Science
+- 🔭 I’m currently working on CardioID and Monitor professor at ISEL 
+- 🌱 I’m currently taking MSc Computer Science Engineering
 - 📫 How to reach me: joseefcsantos@gmail.com
 - ⚡ Fun fact: I like snakes
 </details>
