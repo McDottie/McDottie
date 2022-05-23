@@ -43,7 +43,7 @@
 
 > 🏆 22 Contributions in the Year 2022
  > 
-> 📦 119.6 kB Used in GitHub's Storage 
+> 📦 119.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,7 +112,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/McDottie/McDottie/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 00:47:10 UTC
+ Last Updated on 23/05/2022 00:47:32 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
