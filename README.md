@@ -5,6 +5,11 @@
 
 ## 🛠️ Languages and Tools :
  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/c.svg" width="26px" height="26px">
+  <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
+</picture>
+ 
 <img align="left" alt="C" width="26px" height="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
 <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
