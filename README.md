@@ -7,11 +7,11 @@
 
 <img align="left" alt="C" width="26px" height="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
-<img align="left" alt="Java" width="26px" height="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
 <img align="left" alt="Dart" width="26px" height="26px" src="https://simpleicons.org/icons/dart.svg" />
 <img align="left" alt="JavaScript" width="26px" height="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="nodejs" width="26px" height="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img align="left" alt="dotNet" width="26px" height="26px" src="https://simpleicons.org/icons/dot-net.svg" />
+<img align="left" alt="nodejs" width="26px" height="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />
+<img align="left" alt="dotNet" width="26px" height="26px" src="https://simpleicons.org/icons/dotnet.svg" />
 <img align="left" alt="Flutter" width="26px" height="26px" src="https://simpleicons.org/icons/flutter.svg" />
 <img align="left" alt="Android Studio" width="26px" height="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
