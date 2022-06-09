@@ -96,6 +96,8 @@
 <img align="left" alt="Markdown" width="26px" height="26px" src="./img/markdown.svg" />
 </picture>
 
+ <br />  
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./img/powershelln.svg" width="26px" height="26px">
 <img align="left" alt="Powershell" width="26px" height="26px" src="./img/powershell.svg" />
