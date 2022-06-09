@@ -7,16 +7,18 @@
  
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./img/cn.svg" width="26px" height="26px">
-<img align="left" alt="Java" width="26px" height="26px" src="./img/c.svg" />
+<img align="left" alt="C" width="26px" height="26px" src="./img/c.svg" />
 </picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./img/csharpn.svg" width="26px" height="26px">
-<img align="left" alt="Java" width="26px" height="26px" src="./img/csharp.svg" />
+<img align="left" alt="CSharp" width="26px" height="26px" src="./img/csharp.svg" />
 </picture>
 
-
-<img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/javan.svg" width="26px" height="26px">
+<img align="left" alt="Java" width="26px" height="26px" src="./img/java.svg" />
+</picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./img/dartn.svg" width="26px" height="26px">
