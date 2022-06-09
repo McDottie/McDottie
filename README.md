@@ -5,6 +5,7 @@
 
 ## 🛠️ Languages and Tools :
 
+ ![GitHub-Mark-Light](https://simpleicons.org/icons/c.svg =26x26)
 <img align="left" alt="C" width="26px" height="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
 <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
