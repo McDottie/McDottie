@@ -5,32 +5,109 @@
 
 ## 🛠️ Languages and Tools :
  
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/c.svg" width="26px" height="26px">
-  <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/cn.svg" width="26px" height="26px">
+<img align="left" alt="Java" width="26px" height="26px" src="./img/c.svg" />
 </picture>
- 
-<img align="left" alt="C" width="26px" height="26px" src="https://simpleicons.org/icons/c.svg" />
-<img align="left" alt="C sharp" width="26px" height="26px" src="https://simpleicons.org/icons/csharp.svg" />
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/csharpn.svg" width="26px" height="26px">
+<img align="left" alt="Java" width="26px" height="26px" src="./img/csharp.svg" />
+</picture>
+
+
 <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/154/154878.png" />
-<img align="left" alt="Dart" width="26px" height="26px" src="https://simpleicons.org/icons/dart.svg" />
-<img align="left" alt="JavaScript" width="26px" height="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="nodejs" width="26px" height="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />
-<img align="left" alt="dotNet" width="26px" height="26px" src="https://simpleicons.org/icons/dotnet.svg" />
-<img align="left" alt="Flutter" width="26px" height="26px" src="https://simpleicons.org/icons/flutter.svg" />
-<img align="left" alt="Android Studio" width="26px" height="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Eclipse" width="26px" height="26px" src="https://simpleicons.org/icons/eclipseide.svg" />
-<img align="left" alt="PostgreSQL" width="26px" height="26px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="SQLServer" width="26px" height="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
-<img align="left" alt="Heroku" width="26px" height="26px" src="https://simpleicons.org/icons/heroku.svg" />
-<img align="left" alt="Vercel" width="26px" height="26px" src="https://simpleicons.org/icons/vercel.svg" />
-<img align="left" alt="Git" width="26px" height="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" height="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="MarkDown" width="26px" height="26px" src="https://simpleicons.org/icons/markdown.svg" />
-<img align="left" alt="Terminal" width="26px" height="26px" src="https://simpleicons.org/icons/powershell.svg" />
-<img align="left" alt="ElasticSearch" width="26px" height="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
-<img align="left" alt="NodeRed" width="26px" height="26px" src="https://simpleicons.org/icons/nodered.svg" />
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/dartn.svg" width="26px" height="26px">
+<img align="left" alt="Dart" width="26px" height="26px" src="./img/dart.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/javascriptn.svg" width="26px" height="26px">
+<img align="left" alt="JavaScript" width="26px" height="26px" src="./img/javascript.svg" />
+</picture>
+
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/nodedotjsn.svg" width="26px" height="26px">
+<img align="left" alt="NodeJs" width="26px" height="26px" src="./img/nodedotjs.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/dotnetn.svg" width="26px" height="26px">
+<img align="left" alt="DotNet" width="26px" height="26px" src="./img/dotnet.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/fluttern.svg" width="26px" height="26px">
+<img align="left" alt="Flutter" width="26px" height="26px" src="./img/flutter.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/androidstudion.svg" width="26px" height="26px">
+<img align="left" alt="AndroidStudio" width="26px" height="26px" src="./img/androidstudio.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/visualstudiocoden.svg" width="26px" height="26px">
+<img align="left" alt="VSCode" width="26px" height="26px" src="./img/visualstudiocode.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/eclipseiden.svg" width="26px" height="26px">
+<img align="left" alt="Eclipse" width="26px" height="26px" src="./img/eclipseide.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/postgresqln.svg" width="26px" height="26px">
+<img align="left" alt="PostgreSQL" width="26px" height="26px" src="./img/postgresql.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/microsoftsqlservern.svg" width="26px" height="26px">
+<img align="left" alt="MSQL" width="26px" height="26px" src="./img/microsoftsqlserver.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/herokun.svg" width="26px" height="26px">
+<img align="left" alt="Heroku" width="26px" height="26px" src="./img/heroku.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/verceln.svg" width="26px" height="26px">
+<img align="left" alt="Vercel" width="26px" height="26px" src="./img/vercel.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/gitn.svg" width="26px" height="26px">
+<img align="left" alt="Git" width="26px" height="26px" src="./img/git.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/githubn.svg" width="26px" height="26px">
+<img align="left" alt="Git" width="26px" height="26px" src="./img/github.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/markdownn.svg" width="26px" height="26px">
+<img align="left" alt="Markdown" width="26px" height="26px" src="./img/markdown.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/powershelln.svg" width="26px" height="26px">
+<img align="left" alt="Powershell" width="26px" height="26px" src="./img/powershell.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/elasticsearchn.svg" width="26px" height="26px">
+<img align="left" alt="ElastSearch" width="26px" height="26px" src="./img/elasticsearch.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/noderedn.svg" width="26px" height="26px">
+<img align="left" alt="Java" width="26px" height="26px" src="./img/nodered.svg" />
+</picture>
 
 <br />  
 
