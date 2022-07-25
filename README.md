@@ -119,6 +119,7 @@
 ---
 
 ## ⚡ GitHub Activity/Stats
+[![wakatime](https://wakatime.com/badge/user/19375120-49f7-4adc-84c4-ac0b722fcfb3.svg)](https://wakatime.com/@19375120-49f7-4adc-84c4-ac0b722fcfb3)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
