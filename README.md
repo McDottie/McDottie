@@ -139,6 +139,45 @@
  > 
 > 🔑 9 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+🌆 Daytime    49 commits     █████████░░░░░░░░░░░░░░░░   38.58% 
+🌃 Evening    53 commits     ██████████░░░░░░░░░░░░░░░   41.73% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Tuesday      58 commits     ███████████░░░░░░░░░░░░░░   45.67% 
+Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Thursday     33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
+Friday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -156,7 +195,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/McDottie/McDottie/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 01:02:27 UTC
+ Last Updated on 24/08/2022 00:56:13 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
