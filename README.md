@@ -121,7 +121,7 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -168,13 +168,15 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 hrs 40 mins       █████████████████████████   99.57% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  2 hrs 40 mins       █████████████████████████   99.57% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -195,7 +197,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/McDottie/McDottie/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 00:57:47 UTC
+ Last Updated on 04/09/2022 00:56:37 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
