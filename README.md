@@ -121,7 +121,7 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,7 +131,7 @@
 
 > 🏆 41 Contributions in the Year 2022
  > 
-> 📦 120.3 kB Used in GitHub's Storage 
+> 📦 120.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -168,15 +168,15 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C                        3 hrs 10 mins       █████████████████████████   99.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+C                        3 hrs 21 mins       █████████████████████████   99.66% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 🔥 Editors: 
-Eclipse                  3 hrs 10 mins       █████████████████████████   99.64% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Eclipse                  3 hrs 21 mins       █████████████████████████   99.66% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.0%
+Windows                  3 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -197,7 +197,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/McDottie/McDottie/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 00:59:59 UTC
+ Last Updated on 09/09/2022 01:01:53 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
