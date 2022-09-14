@@ -121,9 +121,9 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-395%20Thousand%20lines%20of%20code-blue)
 
@@ -139,45 +139,6 @@
  > 
 > 🔑 9 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
-🌆 Daytime    49 commits     █████████░░░░░░░░░░░░░░░░   38.58% 
-🌃 Evening    53 commits     ██████████░░░░░░░░░░░░░░░   41.73% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
-Tuesday      58 commits     ███████████░░░░░░░░░░░░░░   45.67% 
-Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
-Thursday     33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
-Friday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Lisbon
-
-💬 Programming Languages: 
-C                        45 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-Eclipse                  45 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -195,7 +156,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/McDottie/McDottie/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 01:02:25 UTC
+ Last Updated on 14/09/2022 00:59:51 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
