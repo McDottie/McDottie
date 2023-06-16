@@ -121,9 +121,9 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.3%20thousand%20lines%20of%20code-blue)
 
@@ -166,16 +166,17 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C                        1 hr 44 mins        ██████████████░░░░░░░░░░░   57.93 % 
-Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+C                        6 hrs 38 mins       ███████████████████░░░░░░   77.93 % 
+Other                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Eclipse                  1 hr 44 mins        ██████████████░░░░░░░░░░░   57.93 % 
-VS Code                  1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+Eclipse                  6 hrs 47 mins       ████████████████████░░░░░   79.76 % 
+VS Code                  1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -195,7 +196,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2023 01:37:44 UTC
+ Last Updated on 16/06/2023 01:39:58 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
