@@ -121,7 +121,7 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,15 +129,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126.1 kB Used in GitHub's Storage 
+> 📦 126.0 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2023
+> 🏆 17 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -166,16 +166,16 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C                        3 hrs 30 mins       ████████████████████░░░░░   78.78 % 
-Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+C                        2 hrs 49 mins       ███████████████████░░░░░░   74.96 % 
+Other                    56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
 CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Eclipse                  3 hrs 16 mins       ██████████████████░░░░░░░   73.58 % 
-VS Code                  1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Eclipse                  2 hrs 30 mins       █████████████████░░░░░░░░   66.26 % 
+VS Code                  1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.74 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -195,7 +195,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 01:52:39 UTC
+ Last Updated on 28/06/2023 01:51:28 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
