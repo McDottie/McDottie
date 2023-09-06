@@ -121,7 +121,7 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -166,13 +166,13 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        47 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -192,7 +192,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2023 01:08:40 UTC
+ Last Updated on 06/09/2023 01:10:01 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
