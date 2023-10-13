@@ -166,15 +166,13 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C                        16 mins             ████████████████████████░   95.06 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  16 mins             ████████████████████████░   95.06 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -194,7 +192,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 01:09:14 UTC
+ Last Updated on 13/10/2023 01:13:11 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
