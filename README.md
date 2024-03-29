@@ -131,8 +131,6 @@
 
 > 📦 126.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -192,7 +190,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 01:10:50 UTC
+ Last Updated on 29/03/2024 01:11:01 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
