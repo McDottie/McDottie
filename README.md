@@ -129,9 +129,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 126.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,7 +190,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 01:24:01 UTC
+ Last Updated on 24/06/2024 01:20:37 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
