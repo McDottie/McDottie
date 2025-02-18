@@ -214,7 +214,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
   <summary>😃 More about me</summary>
 
 - 🔭 I’m currently working on Bosch Car Multimedia, and previously worked on CardioID technologies
-- 🌱 I’m currently taking MSc Computer Science Engineering
+- 🌱 I'm a MSc in Computer Science Engineering
 - 📫 How to reach me: joseefcsantos(at)gmaildotcom
 - ⚡ Fun fact: I like snakes
 </details>
