@@ -129,7 +129,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126.3 kB Used in GitHub's Storage 
+> 📦 126.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,7 +190,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 01:52:44 UTC
+ Last Updated on 26/04/2025 01:48:15 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
