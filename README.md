@@ -215,7 +215,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <details>
   <summary>😃 More about me</summary>
 
-- 🔭 I’m currently working on Bosch Car Multimedia, and previously worked on CardioID technologies
+- 🔭 I’m currently working at Nokia and previously worked on Bosch Car Multimedia, and CardioID technologies
 - 🌱 I'm a MSc in Computer Science Engineering
 - 📫 How to reach me: joseefcsantos(at)gmaildotcom
 - ⚡ Fun fact: I like snakes
