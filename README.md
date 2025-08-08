@@ -131,8 +131,6 @@
 
 > 📦 126.3 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -192,7 +190,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 02:11:34 UTC
+ Last Updated on 08/08/2025 02:11:21 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
