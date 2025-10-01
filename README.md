@@ -129,7 +129,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126.4 kB Used in GitHub's Storage 
+> 📦 126.3 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
@@ -192,7 +192,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 01:45:16 UTC
+ Last Updated on 01/10/2025 01:57:38 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
