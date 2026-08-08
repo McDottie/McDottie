@@ -121,6 +121,8 @@
 ## ⚡ GitHub Activity/Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.35%20thousand%20lines%20of%20code-blue?style=flat)
@@ -137,6 +139,48 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                95 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌆 Daytime                220 commits         █████████████░░░░░░░░░░░░   51.64 % 
+🌃 Evening                110 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  136 commits         ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 102 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -154,7 +198,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/McDottie/McDottie/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:52:40 UTC
+ Last Updated on 08/08/2026 01:57:11 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
